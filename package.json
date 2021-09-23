@@ -1,0 +1,28 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bondarenkoalla/goit-node-hw-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bondarenkoalla/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/Bondarenkoalla/goit-node-hw-01#readme",
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "yargs": "^17.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
